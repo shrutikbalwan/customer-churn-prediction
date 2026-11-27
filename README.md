@@ -1,5 +1,12 @@
 # Customer Churn Prediction
 
+## Try it without the dataset
+
+Run the [synthetic demo](DEMO.md) to explore single predictions, CSV batches and downloads.
+It uses clearly labelled invented formulas, requires no trained artifacts and makes
+no real-world prediction claims. The research results below describe the separate
+trained-model workflow.
+
 ## Churn improvement study
 
 See [findings](CHURN_IMPROVEMENT_FINDINGS.md) and [detailed report](CHURN_IMPROVEMENT_REPORT.html).
